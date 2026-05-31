@@ -1,6 +1,6 @@
 {
-  "Newsbodytxturl": "https://projectmaxtime.github.io/ShowtimeNews/test.txt",
-  "NewsHeadlinetxturl": "https://projectmaxtime.github.io/ShowtimeNews/test2.txt",
+  "Newsbodytxturl": "https://raw.githubusercontent.com/YarnabyTheLegend/Lilly-Server-Banner/refs/heads/main/test.txt",
+  "NewsHeadlinetxturl": "https://raw.githubusercontent.com/YarnabyTheLegend/Lilly-Server-Banner/refs/heads/main/test2.txt",
   "ImageUrl": "https://projectmaxtime.github.io/ShowtimeNews/ShittimeGamesIcon.png",
   "ImageSmallUrl": "https://projectmaxtime.github.io/ShowtimeNews/testsmall.png"
 }
